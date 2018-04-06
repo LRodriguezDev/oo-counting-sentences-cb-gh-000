@@ -30,7 +30,7 @@ class String
     if self.size == 0
       return 0
     else
-      
+
     end
   end
 end
